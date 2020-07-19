@@ -1,0 +1,11 @@
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-4\bin\Debug\ep1-4.exe.config
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\bin\Debug\ep1-4.exe.config
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\bin\Debug\ep1-4.exe
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\bin\Debug\ep1-4.pdb
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\bin\Debug\ep1-4.xml
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1_4.Form1.resources
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1_4.Resources.resources
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1-4.vbproj.GenerateResource.Cache
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1-4.exe
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1-4.xml
+D:\kanokporn nilnumkham\ep1\ep1-4\ep1-4\obj\Debug\ep1-4.pdb

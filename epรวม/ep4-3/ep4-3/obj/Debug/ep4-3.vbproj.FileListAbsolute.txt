@@ -1,0 +1,11 @@
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\bin\Debug\ep4-3.exe.config
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\bin\Debug\ep4-3.exe
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\bin\Debug\ep4-3.pdb
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\bin\Debug\ep4-3.xml
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\ep4-3.vbprojResolveAssemblyReference.cache
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\ep4-3.vbproj.GenerateResource.Cache
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\ep4-3.exe
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\ep4-3.xml
+D:\kanokporn nilnumkham\epรวม\ep4-3\ep4-3\obj\Debug\ep4-3.pdb

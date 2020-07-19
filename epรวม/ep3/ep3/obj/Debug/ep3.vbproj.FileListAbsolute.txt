@@ -1,0 +1,10 @@
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\bin\Debug\ep3.exe.config
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\bin\Debug\ep3.exe
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\bin\Debug\ep3.pdb
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\bin\Debug\ep3.xml
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\WindowsApplication1.Form1.resources
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\WindowsApplication1.Resources.resources
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\ep3.vbproj.GenerateResource.Cache
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\ep3.exe
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\ep3.xml
+D:\kanokporn nilnumkham\ep1\ep2\ep3\ep3\obj\Debug\ep3.pdb

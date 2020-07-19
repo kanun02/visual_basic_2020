@@ -1,0 +1,11 @@
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-2\bin\Debug\ep1-2.exe.config
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\bin\Debug\ep1-2.exe.config
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\bin\Debug\ep1-2.exe
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\bin\Debug\ep1-2.pdb
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\bin\Debug\ep1-2.xml
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1_2.Form1.resources
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1_2.Resources.resources
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1-2.vbproj.GenerateResource.Cache
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1-2.exe
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1-2.xml
+D:\kanokporn nilnumkham\ep1\ep1-2\ep1-2\obj\Debug\ep1-2.pdb

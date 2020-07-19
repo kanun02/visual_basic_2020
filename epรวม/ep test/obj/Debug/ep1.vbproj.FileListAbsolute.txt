@@ -1,0 +1,11 @@
+D:\kanokporn nilnumkham\ep1\ep1\bin\Debug\ep1.exe.config
+D:\kanokporn nilnumkham\ep1\ep1\bin\Debug\ep1.exe
+D:\kanokporn nilnumkham\ep1\ep1\bin\Debug\ep1.pdb
+D:\kanokporn nilnumkham\ep1\ep1\bin\Debug\ep1.xml
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\ep1.vbprojResolveAssemblyReference.cache
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\WindowsApplication1.Resources.resources
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\ep1.vbproj.GenerateResource.Cache
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\ep1.exe
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\ep1.xml
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\ep1.pdb
+D:\kanokporn nilnumkham\ep1\ep1\obj\Debug\WindowsApplication1.Form1.resources

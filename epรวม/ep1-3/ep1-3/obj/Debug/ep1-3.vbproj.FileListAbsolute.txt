@@ -1,0 +1,15 @@
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\bin\Debug\ep1-3.exe.config
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\bin\Debug\ep1-3.exe
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\bin\Debug\ep1-3.pdb
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\bin\Debug\ep1-3.xml
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1-3.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1_3.Form1.resources
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1_3.Resources.resources
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1-3.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1-3.exe
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1-3.xml
+C:\Users\Lenovo-15\AppData\Local\Temporary Projects\ep1-3\obj\Debug\ep1-3.pdb
+D:\kanokporn nilnumkham\ep1\ep1-3\ep1-3\bin\Debug\ep1-3.exe.config
+D:\kanokporn nilnumkham\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.exe
+D:\kanokporn nilnumkham\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.xml
+D:\kanokporn nilnumkham\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.pdb
